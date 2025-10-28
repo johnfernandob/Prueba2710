@@ -6,3 +6,10 @@ def fun(n):
     
 
 print(fun(6))
+
+####### parte dos
+
+def fun2(num):
+    return num+num
+
+print(fun2(5))
